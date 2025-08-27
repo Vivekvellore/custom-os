@@ -1,2 +1,2 @@
 # custom-os
-Learn how to create your own custom-os
+Learn how to create/develop your own custom-os.
